@@ -1,2 +1,2 @@
 # LearnToRank
-LearnToRank Models for e-commerce ranking
+XGBoost based LearnToRank Models for e-commerce ranking
